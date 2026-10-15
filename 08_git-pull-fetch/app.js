@@ -1,1 +1,1 @@
-Java app
+console.log("hello")
